@@ -7,11 +7,9 @@ public class Runner {
 	 
 	 LinkedList list = new LinkedList();
 	 Linked linked = new Linked();
-	System.out.println("sssss");
-	System.out.println("sssssssss");
-	System.out.println("somechanges code");
-	System.out.println("ddddd");
+
 	 Doubly doublee = new Doubly();
+	 doublee.hashCode();
 	 System.out.println("mmmm");
 	 linked.insert(2);
 	 linked.insert(5);
