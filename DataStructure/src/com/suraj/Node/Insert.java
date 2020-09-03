@@ -3,7 +3,7 @@ package com.suraj.Node;
 public class Insert{
 public static void main(String[] args){
 
-int[] arr= {1,6,3,8,9,100};
+int[] arr= {1,6,3,8,9,100,1888};
 int z=6;
 Java j= new Java();
 j.findNumberIndex(arr,z);
