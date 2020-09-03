@@ -11,6 +11,7 @@ public class Runner {
 	 Doubly doublee = new Doubly();
 	 doublee.hashCode();
 	 System.out.println("mmmm");
+	 System.out.println("My name is suraj");
 	 linked.insert(2);
 	 linked.insert(5);
 	 linked.insert(6);
