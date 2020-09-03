@@ -12,6 +12,7 @@ public class Runner {
 	System.out.println("somechanges code");
 	System.out.println("ddddd");
 	 Doubly doublee = new Doubly();
+	 System.out.println("mmmm");
 	 linked.insert(2);
 	 linked.insert(5);
 	 linked.insert(6);
