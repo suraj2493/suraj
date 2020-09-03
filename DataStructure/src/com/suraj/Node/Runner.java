@@ -16,6 +16,7 @@ public class Runner {
 	 linked.insert(5);
 	 linked.insert(6);
 	 System.out.println(linked);
+	  System.out.println("ggghgkg");
 	 linked.show();
 	 /*list.findNumberIndex(linked,6);
 	 doublee.insertDoublyLinkedList(10);
