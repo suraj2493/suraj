@@ -4,9 +4,6 @@ public class Insert{
 public static void main(String[] args){
 
 int[] arr= {1,6,3,8,9,100,1888};
-  for(i=0;i<arr.length;i++){
-   System.out.println(arr[i]);
-  }
 int z=6;
 Java j= new Java();
 j.findNumberIndex(arr,z);
