@@ -7,9 +7,6 @@ public class Runner {
 	 
 	 LinkedList list = new LinkedList();
 	 Linked linked = new Linked();
-     System.out.println("changes in runner");
-	 System.out.println("changes in runner");
-	 System.out.println("changes in runner");
 	 Doubly doublee = new Doubly();
 	 linked.insert(2);
 	 linked.insert(5);
