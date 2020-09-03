@@ -5,6 +5,8 @@ public class LinkedList {
 	Node head;
 	public void insert(int data)
 	{
+		
+		System.out.println("node11111");
 		System.out.println("node");
 		Node node = new Node();
 		node.data = data;
