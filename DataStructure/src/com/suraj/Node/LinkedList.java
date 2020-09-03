@@ -7,6 +7,7 @@ public class LinkedList {
 	{
 		System.out.println("LinkedList.insert()");
 		System.out.println("LinkedList.insert() suraj");
+		System.out.println("LinkedList.insert() suraj111");
 		Node node = new Node();
 		node.data = data;
 		node.next=null;
