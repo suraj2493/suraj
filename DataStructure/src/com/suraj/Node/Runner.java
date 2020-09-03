@@ -9,11 +9,6 @@ public class Runner {
 	 Linked linked = new Linked();
 
 	 Doubly doublee = new Doubly();
-	 doublee.hashCode();
-	 System.out.println("mmmm");
-	 System.out.println("My name is suraj");
-	  System.out.println("My name is suraj1");
-	 System.out.println("My name is suraj3");
 	 linked.insert(2);
 	 linked.insert(5);
 	 linked.insert(6);
