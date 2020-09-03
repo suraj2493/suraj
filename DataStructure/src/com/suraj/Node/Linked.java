@@ -40,6 +40,7 @@ public class Linked {
 		z++;
 		}
 		}
+	//show method is working fine
 	public void show(){
 		Node n =head;
 		while(n.next!=null){
