@@ -4,5 +4,10 @@ public class Node {
 int data;
 Node next;
 Node previous;
-  System.out.println("Ssssssjjjj");
+ private void syso() {
+	System.out.println("sss");
+System.out.println("sss");
+System.out.println("sss");
+
+}
 }
