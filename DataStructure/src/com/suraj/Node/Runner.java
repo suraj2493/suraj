@@ -9,7 +9,7 @@ public class Runner {
 	 Linked linked = new Linked();
 	 Doubly doublee = new Doubly();
 	 linked.insert(2);
-	 System.out.println("master");
+	 System.out.println("my name is suraj");
 	 linked.insert(5);
 	 linked.insert(6);
 	 System.out.println(linked);
