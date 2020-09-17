@@ -11,6 +11,7 @@ public class LinkedList {
 		if(head !=(null))
 		{
 			System.out.println("insert");
+			System.out.println("insert1");
 			head = node;
 		}
 		else
