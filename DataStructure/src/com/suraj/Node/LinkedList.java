@@ -10,8 +10,6 @@ public class LinkedList {
 		node.next=null;
 		if(head !=(null))
 		{
-			System.out.println("insert");
-			System.out.println("insert1");
 			head = node;
 		}
 		else
