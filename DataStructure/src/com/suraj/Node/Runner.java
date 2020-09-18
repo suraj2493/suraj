@@ -9,14 +9,8 @@ public class Runner {
 	 Linked linked = new Linked();
 	 Doubly doublee = new Doubly();
 	 linked.insert(2);
-	 System.out.println("master");
 	 linked.insert(2);
-	 System.out.println("my name is suraj1");
-	 System.out.println("master");
 	 linked.insert(2);
-	 System.out.println("my name is suraj1");
-	 System.out.println("my name is suraj1");
-	 System.out.println("my name is suraj1");
 	 linked.insert(5);
 	 linked.insert(6);
 	 System.out.println(linked);
