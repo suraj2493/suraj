@@ -6,6 +6,7 @@ public class Cap {
        
         System.out.println("suraj");
         System.out.println("shanu");
+	System.out.println("kiran");
 	}
 
 }
