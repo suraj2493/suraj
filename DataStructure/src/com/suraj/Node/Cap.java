@@ -8,6 +8,7 @@ public class Cap {
         System.out.println("shanu");
 	    System.out.println("kiran");
 	    System.out.println("shambhu");
+
 	}
 
 }
